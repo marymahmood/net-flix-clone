@@ -3,6 +3,7 @@
 Created using TMDB API, Firebase Authentication, Firestore Database, Stripe Checkout
 
 Live site - https://net-flix-clone.vercel.app/ 
+
 Make sure to enter these credit card details for successful transaction:
 Card number: 4242 4242 4242 4242 Card end date: 04/24 Card CVV: 424
 
