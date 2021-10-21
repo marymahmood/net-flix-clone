@@ -6,7 +6,7 @@ Live site - https://net-flix-clone.vercel.app/
 Make sure to enter these credit card details for successful transaction:
 Card number: 4242 4242 4242 4242 Card end date: 04/24 Card CVV: 424
 
-![Screenshot_20211016-134606](https://user-images.githubusercontent.com/86771291/138235791-458b1aec-6c4b-4168-9f7a-061e2b4d63ac.png)
+![netflix-clone-pics](https://user-images.githubusercontent.com/86771291/138237690-4112193b-71bf-41f8-a4c4-a827f211388e.png)
 
 # Features 
 
@@ -17,9 +17,9 @@ Card number: 4242 4242 4242 4242 Card end date: 04/24 Card CVV: 424
 - Click on subscribe next to plan of your choice and the stripe checkout screen opens
 
 - Enter fake credit card details 
-Make sure to enter these credit card details for successful transaction:
-Card number: 4242 4242 4242 4242 
-Card end date: 04/24
-Card CVV: 424
+  Make sure to enter these credit card details for successful transaction:
+  Card number: 4242 4242 4242 4242 
+  Card end date: 04/24
+  Card CVV: 424
 
 Check out how it works using the live site :)
