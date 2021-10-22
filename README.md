@@ -11,14 +11,15 @@ Card number: 4242 4242 4242 4242 Card end date: 04/24 Card CVV: 424
 
 # Features 
 
-- Sign up using any email and password
+- Click on the Get Started button or the Sign In button on the top right and enter any email and password and click Sign up     now to register. 
+
+- To sign in again just enter email and password and click on Sign in.
 
 - Check the profile screen by pressing the profile pic in the top right 
 
-- Click on subscribe next to plan of your choice and the stripe checkout screen opens
+- Click on the subscribe button next to a plan of your choice and the stripe checkout screen will open
 
-- Enter fake credit card details 
-  Make sure to enter these credit card details for successful transaction:
+- Make sure to enter these credit card details for successful transaction:
   Card number: 4242 4242 4242 4242 
   Card end date: 04/24
   Card CVV: 424
